@@ -98,7 +98,8 @@ Answer: B
 
 ![exhibit](exhibits/q6.jpg)
 
-Refer to the exhibit. R1 is unable to ping the device at 10.3.3.3. Which two options are possible reasons for the problem? (Choose two.)
+
+Refer to the exhibit. R1 is unable to ping the device at 10.3.3.3. Which two options are possible reasons for the problem? (Choose two.)
 
 A. The static route is configured as a host route.
 
@@ -143,7 +144,8 @@ Answer: BC
 
 ![exhibit](exhibits/q8.jpg)
 
-Refer to the exhibit. Which two statements are true? (Choose two.) 
+
+Refer to the exhibit. Which two statements are true? (Choose two.) 
 
 A. This is the output of the  show ip ospf command.
 
@@ -255,7 +257,8 @@ Answer: A
 
 ![exhibit](exhibits/q14.jpg)
 
-Refer to the exhibit. Which data format is used in this REST API call?
+
+Refer to the exhibit. Which data format is used in this REST API call?
 
 A. XML
 
@@ -295,7 +298,8 @@ Answer B
 
 ![exhibit](exhibits/q16.jpg)
 
-Refer to the exhibit. Which two statements about the 192.168.23.0/24 prefix are true ? (Choose two.)
+
+Refer to the exhibit. Which two statements about the 192.168.23.0/24 prefix are true ? (Choose two.)
 
 A. Router 192.168.45.4 cannot act as a feasible successor.
 
@@ -399,7 +403,8 @@ Answer: D
 
 ![exhibit](exhibits/q21.jpg)
 
-Refer to the exhibit. R1 has c1n OSPF path to R2 and R3 for 10.1.0.0/24, but R1 has a routing entry for 10. 1.0.0/24 from only one router at a time. Which option is the most likely cause?
+
+Refer to the exhibit. R1 has c1n OSPF path to R2 and R3 for 10.1.0.0/24, but R1 has a routing entry for 10. 1.0.0/24 from only one router at a time. Which option is the most likely cause?
 
 A. The R1 maximum-path is set to 1.
 
@@ -437,7 +442,8 @@ Answer: C
 
 ![exhibit](exhibits/q23.jpg)
 
-Refer to the exhibit. When traffic marked as CoS 5 arrives on the switch, what DSCP value does the switch apply?
+
+Refer to the exhibit. When traffic marked as CoS 5 arrives on the switch, what DSCP value does the switch apply?
 
 A. 0
 
@@ -501,7 +507,8 @@ Answer: ACD
 
 ![exhibit](exhibits/q26.jpg)
 
-Refer to the exhibit. An lpv6 tunnel is configured between site A and site B. Which feature does the tunnel support?
+
+Refer to the exhibit. An lpv6 tunnel is configured between site A and site B. Which feature does the tunnel support?
 
 A. single policy
 
@@ -585,7 +592,8 @@ Answer: D
 
 ![exhibit](exhibits/q30.jpg)
 
-Refer to the exhibit. According to the given show line output, which type of line is connected to the router?
+
+Refer to the exhibit. According to the given show line output, which type of line is connected to the router?
 
 A. Telnet
 
@@ -625,7 +633,8 @@ Answer: D
 
 ![exhibit](exhibits/q32.jpg)
 
-Refer to the exhibit. With BGP always compare-med enabled, which BGP entry is installed in the RIB?
+
+Refer to the exhibit. With BGP always compare-med enabled, which BGP entry is installed in the RIB?
 
 A. Entry 1 because it was installed first (oldest) in the BGP table.
 
@@ -683,7 +692,8 @@ Answer: BE
 
 ![exhibit](exhibits/q35.jpg)
 
-Refer to the exhibit. Which two route types are advertised  by a router with this configuration? (Choose two)
+
+Refer to the exhibit. Which two route types are advertised  by a router with this configuration? (Choose two)
 
 A. static
 
@@ -721,7 +731,8 @@ Answer: C
 
 ![exhibit](exhibits/q37.jpg)
 
-Refer to the exhibit. Which statement describes what the authoritative flag indicates?
+
+Refer to the exhibit. Which statement describes what the authoritative flag indicates?
 
 A. Authentication was used for the mapping.
 
@@ -761,7 +772,8 @@ Answer: AC
 
 ![exhibit](exhibits/q39.jpg)
 
-Refer to the exhibit. If the route to 10.1.1.1 is removed from the R2 routing table, which server becomes the master NTP server?
+
+Refer to the exhibit. If the route to 10.1.1.1 is removed from the R2 routing table, which server becomes the master NTP server?
 
 A. R2
 
@@ -1007,11 +1019,11 @@ Answer: BD
 
 ## Q51.
 
-Which effect of configuring the passive-interface SOJO  command under the EIGRP routing process is true?
+Which effect of configuring the passive-interface S0/0  command under the EIGRP routing process is true?
 
-A. It prevents EIGRP neighbor relationships from being formed over interface SOJO.
+A. It prevents EIGRP neighbor relationships from being formed over interface S0/0.
 
-B. It configures interface SOJO to send hello packets with the passive-interface bit set.
+B. It configures interface S0/0 to send hello packets with the passive-interface bit set.
 
 C. It configures interface S0/0 to suppress all outgoing routing updates.
 
@@ -1063,7 +1075,8 @@ Answer: D
 
 ![exhibit](exhibits/q54.jpg)
 
-Refer to the exhibit. This router is advertising which routes via BGP?
+
+Refer to the exhibit. This router is advertising which routes via BGP?
 
 A. no routes
 
@@ -1145,7 +1158,8 @@ Answer: DE
 
 ![exhibit](exhibits/q58.jpg)
 
-Refer to the exhibit. R1 and R2 have been configured as BGP neighbor, but their session is stuck in active. Which action can you take that will enable a session to be established?
+
+Refer to the exhibit. R1 and R2 have been configured as BGP neighbor, but their session is stuck in active. Which action can you take that will enable a session to be established?
 
 A. Enable synchronization on R 1 and R2.
 
@@ -1191,7 +1205,8 @@ https://mydevice.mycompanycom/getstuff?queryName=error&queryResults=yes
 
 ```
 
-Refer to the exhibit. Which network script automation option or tool is used in the exhibit?
+
+Refer to the exhibit. Which network script automation option or tool is used in the exhibit?
 
 A. EEM
 
@@ -1351,7 +1366,8 @@ Answer: AE
 
 ![exhibit](exhibits/q68.jpg) 
 
-Refer to the exhibit. Which statement about the functionality of this configuration is true?
+
+Refer to the exhibit. Which statement about the functionality of this configuration is true?
 
 A. The router does not accept nonself-generated LSAs once a maximum of 19000 is reached, unless the router is an ABR
 
@@ -1449,7 +1465,8 @@ Answer: CDF
 
 ![exhibit](exhibits/q73.jpg)
 
-Refer to the exhibit. While troubleshooting a connectivity issue, you executed a traceroute that returned the given output. Which conclusion can you dra>11 about the problem?
+
+Refer to the exhibit. While troubleshooting a connectivity issue, you executed a traceroute that returned the given output. Which conclusion can you dra>11 about the problem?
 
 A. The PDUs transmitted errors
 
@@ -1487,7 +1504,8 @@ Answer C
 
 ![exhibit](exhibits/q75.jpg)
 
-Refer to the exhibit. All routers are running EIGRP and the network has converged. R3 and R4 are configured as EIGRP stub. If the link between R1 and R3 goes down, which statement is true?
+
+Refer to the exhibit. All routers are running EIGRP and the network has converged. R3 and R4 are configured as EIGRP stub. If the link between R1 and R3 goes down, which statement is true?
 
 A. R1 sends traffic destined to 192.168.0.100 via R2
 
@@ -1523,7 +1541,8 @@ Answer: DE
 
 ![exhibit](exhibits/q77.jpg)
 
-Refer to the exhibit. After you apply the given configurations to R1 and R2, which networks does R2 advertise to R1?
+
+Refer to the exhibit. After you apply the given configurations to R1 and R2, which networks does R2 advertise to R1?
 
 A. both 172.16.32.0/20 and 172. 16.33.0/24
 
@@ -1655,7 +1674,8 @@ Answer: A
 
 ![exhibit](exhibits/q84.jpg)
 
-Refer to the exhibit. Which p art of the joined group addresses list indicates that the interface has joined the EIGRP multicast group address?
+
+Refer to the exhibit. Which p art of the joined group addresses list indicates that the interface has joined the EIGRP multicast group address?
 
 A. FF02::1
 
@@ -1769,7 +1789,8 @@ Answer: A
 
 ![exhibit](exhibits/q90.jpg)
 
-Refer to the exhibit. Which is true? (Choose two)
+
+Refer to the exhibit. Which is true? (Choose two)
 
 A. The priority queue is disabled.
 
@@ -1833,7 +1854,8 @@ Answer: D
 
 ![exhibit](exhibits/q93.jpg)
 
-Refer to the exhibit. Which statement is true?
+
+Refer to the exhibit. Which statement is true?
 
 A. R1 routes this pseudowire over MPLS TE tunnel 1 with transport label 20.
 
@@ -1895,7 +1917,8 @@ Answer: BDF
 
 ![exhibit](exhibits/q96.jpg)
 
-Refer to the exhibit. If R1 and R2 cannot establish an OSPF neighbor relationship, which two actions can you take to resolve the problem? (Choose two)
+
+Refer to the exhibit. If R1 and R2 cannot establish an OSPF neighbor relationship, which two actions can you take to resolve the problem? (Choose two)
 
 A. Change the PPP authentication to CHAP authentication
 
@@ -1933,7 +1956,8 @@ Answer: AB
 
 ![exhibit](exhibits/q98.jpg)
 
-Refer to the exhibit. What happens to a TCP packet that is received on interface GigabitEthernet 0/0/0.100, which has DF bit set to 1 , and packet has a valid destination?
+
+Refer to the exhibit. What happens to a TCP packet that is received on interface GigabitEthernet 0/0/0.100, which has DF bit set to 1 , and packet has a valid destination?
 
 A. The packet is not matched by route-map foo and the DF bit is left as it was
 
@@ -1997,7 +2021,8 @@ Answer: C
 
 ![exhibit](exhibits/q101.jpg)
 
-Refer to the exhibit. Which change must you make to this configuration to enable the router to participate in a DR election?
+
+Refer to the exhibit. Which change must you make to this configuration to enable the router to participate in a DR election?
 
 A. Configure the interface to be in area 0
 
@@ -2033,7 +2058,8 @@ Answer: A
 
 ![exhibit](exhibits/q103.jpg)
 
-Refer to the exhibit. The router sets local-preference to which option when it receives a BGP route with a community string 1000:130 from a neighbor in the LocalSite peer-group?
+
+Refer to the exhibit. The router sets local-preference to which option when it receives a BGP route with a community string 1000:130 from a neighbor in the LocalSite peer-group?
 
 A. 80
 
@@ -2055,7 +2081,8 @@ Answer: E
 
 ![exhibit](exhibits/q104.jpg)
 
-Refer to the exhibit. What is the meaning of the asterisk (*) in the LSP Seq Num column of this "show isis database" output?
+
+Refer to the exhibit. What is the meaning of the asterisk (*) in the LSP Seq Num column of this "show isis database" output?
 
 A. The LSP originated on a router with an invalid hold time
 
@@ -2173,7 +2200,51 @@ Answer: AB
 
 ## Q110.
 
-Which set of commands conditionally advertises 172.16.0.0/24 as long as 1 0.1 0.1 0.1 0/32 is in the routing table?
+Which set of commands conditionally advertises 172.16.0.0/24 as long as 10.10.10.10/32 is in the routing table?
+
+A. 
+neighbor x.x.x.x advertise-map ADV exist-map EXT
+route-map ADV
+ match ip address prefix-list ADV
+!
+route-map EXT
+ match ip address prefix-list EXT
+!
+ip prefix-list EXT permit 172.16.0.0/24
+!
+ip prefix-list ADV permit 10.10.10.10/32
+
+B. 
+neighbor x.x.x.x advertise-map ADV exist-map EXT
+route-map ADV
+ match ip address prefix-list ADV
+!
+route-map EXT
+ match ip address prefix-list EXT
+!
+ip prefix-list ADV permit 172.16.0.0/24
+!
+ip prefix-list EXT permit 10.10.10.10/32
+
+C.
+neighbor x.x.x.x advertise-map ADV
+route-map ADV
+ match ip address prefix-list ADV
+ match ip address prefix-list EXT
+!
+ip prefix-list ADV permit 172.16.0.0/24
+!
+ip prefix-list EXT permit 10.10.10.10/32
+
+D.
+neighbor x.x.x.x exist-map EXT
+route-map EXT
+ match ip address prefix-list ADV
+ match ip address prefix-list EXT
+!
+ip prefix-list ADV permit 172.16.0.0/24
+!
+ip prefix-list EXT permit 10.10.10.10/32
 
 Answer: B
 
@@ -2273,7 +2344,8 @@ Answer: CE
 
 ![exhibit](exhibits/q116.jpg)
 
-Refer to the exhibit. The route-map wan2site is being used for redistributing BGP routes into the eigrp 28 process. Which option best describes the resulting redistribution of routes?
+
+Refer to the exhibit. The route-map wan2site is being used for redistributing BGP routes into the eigrp 28 process. Which option best describes the resulting redistribution of routes?
 
 A. policy routing matches 0 packets means that there are no matches and no routes are being redistributed
 
@@ -2371,7 +2443,7 @@ B. R1 and R5 are unable to establish an LDP relationship.
 
 C. The label for the R1 loopback address is filtered from other MPLS routers.
 
-D. The label for the RS loopback address is filtered from other MPLS routers.
+D. The label for the R5 loopback address is filtered from other MPLS routers.
 
 E. MPLS traffic from R1 to R5 takes a suboptimal path.
 
@@ -2421,7 +2493,8 @@ Answer: A
 
 ![exhibit](exhibits/q124.jpg)
 
-Refer to the exhibit. If R1 uses EIGRP to learn route 192. 1 B8.1 0.0/24 from R2, which interface on R1 uses split horizon for route 192.168.10.0/24?
+
+Refer to the exhibit. If R1 uses EIGRP to learn route 192. 1 B8.1 0.0/24 from R2, which interface on R1 uses split horizon for route 192.168.10.0/24?
 
 A. Se0/0
 
@@ -2537,7 +2610,8 @@ Answer: B
 
 ![exhibit](exhibits/q130.jpg)
 
-Refer to the exhibit. If you apply this configuration to a device on your network, which class map cannot match traffic?
+
+Refer to the exhibit. If you apply this configuration to a device on your network, which class map cannot match traffic?
 
 A. CM-EXAMPLE-1
 
@@ -2603,7 +2677,8 @@ Answer: CDE
 
 ![exhibit](exhibits/q133.jpg)
 
-Refer to the exhibit. If a console port is configured as shown, which response is displayed when you connect to the console port?
+
+Refer to the exhibit. If a console port is configured as shown, which response is displayed when you connect to the console port?
 
 A. a blinking cursor
 
@@ -2705,7 +2780,8 @@ Answer: AE
 
 ![exhibit](exhibits/q138.jpg)
 
-Refer to the exhibit. Between which routers is an LDP session established?
+
+Refer to the exhibit. Between which routers is an LDP session established?
 
 A. R1 and R3
 
@@ -2801,7 +2877,8 @@ Answer:  CE
 
 ![exhibit](exhibits/q143.jpg)
 
-Refer to the exhibit. Which statement is true?
+
+Refer to the exhibit. Which statement is true?
 
 A. The output shows an IPv6 multicast address with link-local scope.
 
@@ -3027,7 +3104,7 @@ C. The flush timer must expire.
 
 D. The flush timer must reach 240 seconds.
 
-E. The metric must equal·16
+E. The metric must equalÂ·16
 
 Answer: A
 
@@ -3059,7 +3136,8 @@ Answer: D
 
 ![exhibit](exhibits/q156.jpg)
 
-Refer to the exhibit. Which two options are two benefits of this configuration? (Choose two) 
+
+Refer to the exhibit. Which two options are two benefits of this configuration? (Choose two) 
 
 A. increased security
 
@@ -3081,7 +3159,8 @@ Answer: BE
 
 ![exhibit](exhibits/q157.jpg)
 
-Refer to the exhibit. Which AS paths are matched by this access list?
+
+Refer to the exhibit. Which AS paths are matched by this access list?
 
 A. the origin AS 64496 only
 
@@ -3175,7 +3254,8 @@ Answer: D
 
 ![exhibit](exhibits/q162.jpg)
 
-Refer to the exhibit. What is the PHB class on this flow?
+
+Refer to the exhibit. What is the PHB class on this flow?
 
 A. EF
 
@@ -3215,7 +3295,8 @@ Answer: AB
 
 ![exhibit](exhibits/q164.jpg)
 
-Refer to the exhibit. Which two statements about the output are true? (Choose two.)
+
+Refer to the exhibit. Which two statements about the output are true? (Choose two.)
 
 A. Setting the priority of this switch to O for VLAN 1 would cause it to become the new root.
 
@@ -3297,7 +3378,8 @@ Answer: AC
 
 ![exhibit](exhibits/q168.jpg)
 
-Refer to the exhibit. Your network uses an MPLS VPN backbone with OSPF routing between all PE and CE routers and one the 10Mb backup links between the CE routers. 
+
+Refer to the exhibit. Your network uses an MPLS VPN backbone with OSPF routing between all PE and CE routers and one the 10Mb backup links between the CE routers. 
 
 You notice that data between CE1 and CE3 is flowing over the backup links instead of the higher bandwidth MPLS VPN backbone even when the backbone is up.
 
@@ -3342,7 +3424,8 @@ Usefull Link: https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/pfr/configuratio
 
 ![exhibit](exhibits/q170.jpg)
 
-Refer to the exhibit.  Which statement is true?
+
+Refer to the exhibit.  Which statement is true?
 
 A. The Cisco PfR state is UP; however, the external interface Eth0/1 of border router 10.1.1.1 has exceeded the maximum available bandwidth threshold.
 
@@ -3384,7 +3467,8 @@ Answer: BC
 
 ![exhibit](exhibits/q172.jpg)
 
-Refer to the exhibit. What is the maximum size of a packet that can be sent successfully from R3 to 10.1.2.1 without enabling fragmentation?
+
+Refer to the exhibit. What is the maximum size of a packet that can be sent successfully from R3 to 10.1.2.1 without enabling fragmentation?
 
 A. 1490 bytes
 
@@ -3431,7 +3515,8 @@ Usefull Link: https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipapp_fhrp/confi
 
 ![exhibit](exhibits/q174.jpg)
 
-Refer to the exhibit. Which of this configuration is true?
+
+Refer to the exhibit. Which of this configuration is true?
 
 A. R1 and R2 from an adjacency.
 
@@ -3509,7 +3594,8 @@ Answer: CD
 
 ![exhibit](exhibits/q178.jpg)
 
-Refer to the exhibit. Which two additional configuration lines must you add so that the device will capture data packets using Embedded Packet Capture (EPC)? (Choose two.)
+
+Refer to the exhibit. Which two additional configuration lines must you add so that the device will capture data packets using Embedded Packet Capture (EPC)? (Choose two.)
 
 A. monitor capture buffer BUFFER_CAPTURE filter access-list CAPTURE_FILTER 
 
@@ -3553,7 +3639,8 @@ Answer: CE (Suggested A,C)
 
 ![exhibit](exhibits/q180.jpg)
 
-Refer to the exhibit. Which three statements correctly describe the route reflector's behavior? (Choose three.)
+
+Refer to the exhibit. Which three statements correctly describe the route reflector's behavior? (Choose three.)
 
 A. The route reflector will reflect routes from R1 to R2
 
@@ -3596,7 +3683,8 @@ Answer: A
 
 ![exhibit](exhibits/q182.jpg)
 
-Refer to the exhibit. When you apply this configuration to the router, which effect is true?
+
+Refer to the exhibit. When you apply this configuration to the router, which effect is true?
 
 A. The router multicasts hello packets via interface F0/0.
 
@@ -3632,7 +3720,8 @@ Answer: B
 
 ![exhibit](exhibits/q184.jpg)
 
-Refer to the exhibit. The ISIS router type settings on all routers are left at the default value. Which two statements correctly describe the IS IS adjacencies that will form? (Choose two.)
+
+Refer to the exhibit. The ISIS router type settings on all routers are left at the default value. Which two statements correctly describe the IS IS adjacencies that will form? (Choose two.)
 
 A. The R1 to R2 adjacency will be L2 only
 
@@ -3672,7 +3761,8 @@ Answer: D
 
 ![exhibit](exhibits/q186.jpg)
 
-Refer to the exhibit. Edge 1 and Edge 2 are running OTV across the transport Network. When an Ethernet frame destined for MAC address BB arrives at Edge 1, how is the frame encapsulated?
+
+Refer to the exhibit. Edge 1 and Edge 2 are running OTV across the transport Network. When an Ethernet frame destined for MAC address BB arrives at Edge 1, how is the frame encapsulated?
 
 A. Edge 1 encapsulates the frame in an OTV packet after removing the layer 2 preamble and FCS
 
